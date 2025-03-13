@@ -1,2 +1,2 @@
 # delta-projects
-demo folder
+demo folder.
